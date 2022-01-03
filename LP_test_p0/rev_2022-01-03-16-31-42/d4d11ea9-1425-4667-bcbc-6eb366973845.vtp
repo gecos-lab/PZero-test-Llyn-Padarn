@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VTKFile type="PolyData" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <PolyData>
+    <Piece NumberOfPoints="94"                   NumberOfVerts="0"                    NumberOfLines="93"                   NumberOfStrips="0"                    NumberOfPolys="0"                   >
+      <PointData>
+      </PointData>
+      <CellData>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="appended" RangeMin="5898914.7152"         RangeMax="5899433.7507"         offset="0"                   />
+      </Points>
+      <Verts>
+        <DataArray type="Int64" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="1188"                />
+        <DataArray type="Int64" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="1204"                />
+      </Verts>
+      <Lines>
+        <DataArray type="Int64" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="1220"                />
+        <DataArray type="Int64" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="1484"                />
+      </Lines>
+      <Strips>
+        <DataArray type="Int64" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="1760"                />
+        <DataArray type="Int64" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="1776"                />
+      </Strips>
+      <Polys>
+        <DataArray type="Int64" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="1792"                />
+        <DataArray type="Int64" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="1808"                />
+      </Polys>
+    </Piece>
+  </PolyData>
+  <AppendedData encoding="base64">
+   _AQAAAACAAABoBAAAaAMAAA==eJwt031M1HUcB/BD3SmIqRMOJalMr3xo/cG4zBCQ+32ZH85HoAOSwMJABHzEhzkygUQYhw93BKiR+YCj0IFyhyA9LO5znBvsM1FElzmmZuIqWY1wbDbrTd1/rz+++373fX/en29XC4V95rRMy7UrLzwbft1yWPX6HL3Qpu7AL8LJAeXqoc+bfz2ghnwu7S5Wo3AovMS6T41f879zgveoKfAsuKZ/mwrx2Vudq+bAM+ER60dqkc9zDRnK5HPSrRQVA4fAJTUJKt7ni8krVBJsgO8Z4lS6z1NvR6uNcDAcVfu2qoSD4IR14eoqPB1ueOUNpV8rNBX+cdCoFBwIBza/rMpgfzhgzyzVA+vhppgZanqC0AR456QpKhn2gyOv69Xn8PMqp+Wf4zp1H34G27r+0l5LFBqFQ1Iea/nwCFz/+CetB/4TzrBd05YlCf0OF0exdgUehA3Dl7Xwd4UewI1fNWpt8F24c9NJLc4qdAu2RDi0frgX7tId1LKShbrh/ScKtMAUIf7vfJrmgb+Bw7M1rShVyAlPyl+kLX1P6Dw8sH2G9uo6oTPw3IBR8/w0oVrY9FK3OeJ9IRt8e0OdeVm6UNGYE9PNWzKECuC+VRPMrvVC2XDpbxGxzz8QSoU39hs74zOFLHCzUed2bRB6B17OSe7FWUILYe/HDvf32egGvPZuhzsuB5nDg5E/u/W5Qk8dTsv2J+P5jzyh+7D5hyB+sFlI4Px4I/dtFWqHa26Y2H+H0Cl4RYWZ83YKHYRNa1Zy326hfHh/hZWX7hVKhLkrg9sKhRbDsZ1ZHP0Jug07VuaxtwgzhUNPbePVnwr9Yndazg7v4oFSZAu7cvbyjnKhJrizvZAn2oQc8L2BfVx3SGg3XDKuiBccFUqDi40l3OwQioFfeHKATdVC8+DLPWXcUYv/wh82VvCbJ4SGjjot9obDXF0n1A+PxFfx3ycxO7jH7xhnnhY6DX9xpY4LzgpVwKH+9Zx6Du/CLYcu8JIGoUy4fn4rh34ttAqu4e/4eqNQ5Nj9YVe54ILQAvjStV4OasJ+wa7yO9zajJ6POfYhR11C/kewd9Yh7mgRegSvt4/yWy50Dw7L8fO0tAp54coyvSemTagV/rJ8sudmu1A9PFw4zbOpQ6gKjt0S7DkG22GdzuD5F7QlKc4=AAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAQAAAACAAADQBQAAswAAAA==eJxdxdciQgEAANCb7JmRVUJG2kZmEsrOFon+/zc85OmclxMEXSHu4TD3ch/38wAP8hAP8wiP8hiP8wRHeJKneJpnOMqzPMfzvMCLHOM4L3GCl3mFVznJa7zOG7zJKd7iNGc4yznOc4GLvM07vMt7XOJ9PuBDPuJjPuEyn3KFz7jK53zBl1zjOl/xNd/wLd/xPT9wgx/5iZ/5hV/5jd/5g5v8yV/c4m9u8w//cuf/PwXGIco=AQAAAACAAADoAgAAuwAAAA==eJwtxdFGAwAAAMCZSWYymSRJMpNkJpNkkiRJMjMzSSaZJEmSTCaTmWQySTKZJEmSZLKv62F3LxcM9IU84EGHHfGQox52zCMe9ZjHPeFJTznuhKc941knnfKc0573ghed8ZKXveJVr3ndG970lrPOOe+Ci972jndd8p73XfaBD33kY5/41Gc+94UrvnTVV6752nU3fONbN33nlu/94Ec/ue1nd/ziV7/53R/+9Je//eNfd/3nnv8Bz8ciJw==AAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAA
+  </AppendedData>
+</VTKFile>
