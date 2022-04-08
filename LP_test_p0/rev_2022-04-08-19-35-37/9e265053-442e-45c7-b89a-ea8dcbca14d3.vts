@@ -2,7 +2,7 @@
 <VTKFile type="StructuredGrid" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
   <StructuredGrid WholeExtent="0 248 0 284 0 0">
     <Piece Extent="0 248 0 284 0 0"                                                   >
-      <PointData Scalars="elevation" TCoords="69ac3525-0488-402b-b500-429ffe063531">
+      <PointData Scalars="elevation">
         <DataArray type="Float32" Name="elevation" format="appended" RangeMin="99.396026611"         RangeMax="782.0446167"          offset="0"                   />
         <DataArray type="Float64" Name="69ac3525-0488-402b-b500-429ffe063531" NumberOfComponents="2" format="appended" RangeMin="0.13891177356"        RangeMax="1.3458837167"         offset="320536"              />
       </PointData>
